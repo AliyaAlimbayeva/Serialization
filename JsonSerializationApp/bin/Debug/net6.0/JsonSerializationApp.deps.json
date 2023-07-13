@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JsonSerializationApp/1.0.0": {
+        "dependencies": {
+          "DepEmpLibrary": "1.0.0"
+        },
+        "runtime": {
+          "JsonSerializationApp.dll": {}
+        }
+      },
+      "DepEmpLibrary/1.0.0": {
+        "runtime": {
+          "DepEmpLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JsonSerializationApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DepEmpLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

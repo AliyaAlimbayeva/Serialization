@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "XMLSerializationApp/1.0.0": {
+        "dependencies": {
+          "DepEmpLibrary": "1.0.0"
+        },
+        "runtime": {
+          "XMLSerializationApp.dll": {}
+        }
+      },
+      "DepEmpLibrary/1.0.0": {
+        "runtime": {
+          "DepEmpLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XMLSerializationApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DepEmpLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

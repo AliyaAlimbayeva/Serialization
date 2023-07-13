@@ -1,0 +1,12 @@
+D:\Course\10 Task\Serialization\DepEmpLibrary\bin\Debug\net6.0\DepEmpLibrary.deps.json
+D:\Course\10 Task\Serialization\DepEmpLibrary\bin\Debug\net6.0\DepEmpLibrary.dll
+D:\Course\10 Task\Serialization\DepEmpLibrary\bin\Debug\net6.0\DepEmpLibrary.pdb
+D:\Course\10 Task\Serialization\DepEmpLibrary\obj\Debug\net6.0\DepEmpLibrary.csproj.AssemblyReference.cache
+D:\Course\10 Task\Serialization\DepEmpLibrary\obj\Debug\net6.0\DepEmpLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\10 Task\Serialization\DepEmpLibrary\obj\Debug\net6.0\DepEmpLibrary.AssemblyInfoInputs.cache
+D:\Course\10 Task\Serialization\DepEmpLibrary\obj\Debug\net6.0\DepEmpLibrary.AssemblyInfo.cs
+D:\Course\10 Task\Serialization\DepEmpLibrary\obj\Debug\net6.0\DepEmpLibrary.csproj.CoreCompileInputs.cache
+D:\Course\10 Task\Serialization\DepEmpLibrary\obj\Debug\net6.0\DepEmpLibrary.dll
+D:\Course\10 Task\Serialization\DepEmpLibrary\obj\Debug\net6.0\refint\DepEmpLibrary.dll
+D:\Course\10 Task\Serialization\DepEmpLibrary\obj\Debug\net6.0\DepEmpLibrary.pdb
+D:\Course\10 Task\Serialization\DepEmpLibrary\obj\Debug\net6.0\ref\DepEmpLibrary.dll

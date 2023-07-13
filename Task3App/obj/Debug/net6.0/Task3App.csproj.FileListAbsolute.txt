@@ -1,0 +1,15 @@
+D:\Course\10 Task\Serialization\Task3App\bin\Debug\net6.0\Task3App.exe
+D:\Course\10 Task\Serialization\Task3App\bin\Debug\net6.0\Task3App.deps.json
+D:\Course\10 Task\Serialization\Task3App\bin\Debug\net6.0\Task3App.runtimeconfig.json
+D:\Course\10 Task\Serialization\Task3App\bin\Debug\net6.0\Task3App.dll
+D:\Course\10 Task\Serialization\Task3App\bin\Debug\net6.0\Task3App.pdb
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\Task3App.csproj.AssemblyReference.cache
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\Task3App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\Task3App.AssemblyInfoInputs.cache
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\Task3App.AssemblyInfo.cs
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\Task3App.csproj.CoreCompileInputs.cache
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\Task3App.dll
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\refint\Task3App.dll
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\Task3App.pdb
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\Task3App.genruntimeconfig.cache
+D:\Course\10 Task\Serialization\Task3App\obj\Debug\net6.0\ref\Task3App.dll

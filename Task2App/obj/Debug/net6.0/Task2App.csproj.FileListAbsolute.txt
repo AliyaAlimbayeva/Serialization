@@ -1,0 +1,15 @@
+D:\Course\10 Task\Serialization\Task2App\bin\Debug\net6.0\Task2App.exe
+D:\Course\10 Task\Serialization\Task2App\bin\Debug\net6.0\Task2App.deps.json
+D:\Course\10 Task\Serialization\Task2App\bin\Debug\net6.0\Task2App.runtimeconfig.json
+D:\Course\10 Task\Serialization\Task2App\bin\Debug\net6.0\Task2App.dll
+D:\Course\10 Task\Serialization\Task2App\bin\Debug\net6.0\Task2App.pdb
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\Task2App.csproj.AssemblyReference.cache
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\Task2App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\Task2App.AssemblyInfoInputs.cache
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\Task2App.AssemblyInfo.cs
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\Task2App.csproj.CoreCompileInputs.cache
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\Task2App.dll
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\refint\Task2App.dll
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\Task2App.pdb
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\Task2App.genruntimeconfig.cache
+D:\Course\10 Task\Serialization\Task2App\obj\Debug\net6.0\ref\Task2App.dll
